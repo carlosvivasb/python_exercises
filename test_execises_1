@@ -1,0 +1,5 @@
+especie = input("ingrese el numero de la especie que desea observar: ")
+
+especie_numero = int(especie) + 2
+
+print(especie_numero)
